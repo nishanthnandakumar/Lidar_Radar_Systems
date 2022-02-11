@@ -1,2 +1,3 @@
 # Lidar_Radar_Systems
-This repository contains the assignments of Lidar Radar systems lecture
+
+This repository contains the assignment tasks for the course Lidar and Radar systems. 
